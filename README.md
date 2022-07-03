@@ -17,7 +17,7 @@ Official repository for the Fortuna Project
 
 🤨 | TRUSTLESS SMART CONTRACT - The smart contract is implemented in a transparent, verifiable way. Owner has very limited power over the token.
 
-🪙 | DEFLATIONARY TOKEN - Part of each transaction is burned to reduce the total supply over time, which additionally supports active participants and holders while limiting speculation.
+💰 | DEFLATIONARY TOKEN - Part of each transaction is burned to reduce the total supply over time, which additionally supports active participants and holders while limiting speculation.
 
 ✅ | We truly believe that our project is a disruptive innovation, and has a great potential. You can read more about our functions, prospects, roadmap and everything about our project at our website: https://fortunaproject.net/home
 
